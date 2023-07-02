@@ -30,7 +30,6 @@ Technical support engineer at LLC FC Feniks (January 2018 - Present)
 National University of Food Technologies (September 2008 - June 2011)
 - Bachelor of Finance
 ## English level (CEFR): 
-[//]: # (use "- [x] element" form, for marked item and "- [ ] element" for unmarked item)
 - [ ] A1
 - [ ] A2
 - [x] B1
